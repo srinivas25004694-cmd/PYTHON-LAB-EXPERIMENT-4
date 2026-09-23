@@ -44,3 +44,9 @@ To write a Python program to demonstrate list and related list functions/operati
 18.Stop the program.
 
 ## Source code
+![Output 1](./4.1.png)
+![Output 1](./4.2i.png)
+
+## output
+![Output 1](./4.3.png)
+![Output 1](./4.4.png)
